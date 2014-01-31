@@ -1,7 +1,13 @@
-body{
+body, p {
 	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #666666;
 	background-color: white;
-	
+}
+
+a {
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: black;
+	background-color: white;
 }
